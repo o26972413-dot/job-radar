@@ -48,6 +48,16 @@ jobs:
           if [ -f data/notify_preview.md ]; then
             cp data/notify_preview.md public/notify_preview.md
           fi
+          # 发布每天的内容选题清单（全量新增）到 Pages
+          if [ -d data/content_digest ]; then
+            mkdir -p public/content_digest
+            cp -r data/content_digest/. public/content_digest/
+            LATEST_MD=$(ls -1t public/content_digest/*.md 2>/dev/null | head -1)
+            if [ -n "$LATEST_MD" ]; then
+              cp "$LATEST_MD" public/index.md
+              cp "$LATEST_MD" public/digest.html 2>/dev/null || true
+            fi
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:
