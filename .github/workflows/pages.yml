@@ -48,14 +48,20 @@ jobs:
           if [ -f data/notify_preview.md ]; then
             cp data/notify_preview.md public/notify_preview.md
           fi
-          # 发布每天的内容选题清单（全量新增）到 Pages
+          # 发布每天的内容选题清单（今日发布为主 + 首次发现补充）到 Pages
           if [ -d data/content_digest ]; then
             mkdir -p public/content_digest
             cp -r data/content_digest/. public/content_digest/
-            LATEST_MD=$(ls -1t public/content_digest/*.md 2>/dev/null | head -1)
-            if [ -n "$LATEST_MD" ]; then
-              cp "$LATEST_MD" public/index.md
-              cp "$LATEST_MD" public/digest.html 2>/dev/null || true
+            # latest.txt 精确指向「今日发布」主清单，避免按修改时间猜错文件
+            LATEST_NAME=$(cat public/content_digest/latest.txt 2>/dev/null | tr -d '\r\n')
+            if [ -z "$LATEST_NAME" ]; then
+              LATEST_NAME=$(ls -1t public/content_digest/*.md 2>/dev/null | head -1 | xargs -n1 basename 2>/dev/null)
+            fi
+            LATEST_BASE="${LATEST_NAME%.md}"
+            if [ -n "$LATEST_BASE" ]; then
+              [ -f "public/content_digest/$LATEST_BASE.html" ] && cp "public/content_digest/$LATEST_BASE.html" public/digest.html
+              cp "public/content_digest/$LATEST_BASE.md" public/index.md
+              cp "public/content_digest/$LATEST_BASE.md" public/digest.md
             fi
           fi
 
