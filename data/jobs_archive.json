@@ -1,5 +1,725 @@
 [
   {
+    "dedup_key": "42b833c908c92aa1",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "治理策略运营专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4784726341",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 199
+  },
+  {
+    "dedup_key": "fab463d5625d2aa4",
+    "source_id": "cn-bytedance",
+    "company_name": "字节跳动",
+    "title": "推荐算法工程师-番茄",
+    "location": "上海",
+    "official_url": "https://jobs.bytedance.com/experienced/position/6959075132834105636/detail",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 196
+  },
+  {
+    "dedup_key": "1ce2a3e1c70d73f6",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "美团外卖-供应链采购专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4310282769",
+    "first_seen": "2026-11-19T03:58:35.133538+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "3b81fa646ac9e83a",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "KA大客户品牌经理（西式快餐）",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4164768170",
+    "first_seen": "2026-11-19T03:58:35.133538+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 149
+  },
+  {
+    "dedup_key": "8f63f555a0d90c89",
+    "source_id": "cn-tencent",
+    "company_name": "腾讯",
+    "title": "大模型推理后台开发工程师（深圳/北京/上海/杭州）",
+    "location": "深圳",
+    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1955829491829985280",
+    "first_seen": "2026-11-19T03:58:35.133538+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 164
+  },
+  {
+    "dedup_key": "5471a2013c2e5f8b",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "美团外卖-外卖商家合规运营专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4776560879",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 159
+  },
+  {
+    "dedup_key": "10ab9eeffd964e8e",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "运力增长策略运营（裂变方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4773835637",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 187
+  },
+  {
+    "dedup_key": "938b3b7a7eed3510",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "效果广告-易生活行业策略产品",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748689769",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 191
+  },
+  {
+    "dedup_key": "6adc0f9203a74bfe",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "外卖经营分析师（校园业务）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4728427558",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 212
+  },
+  {
+    "dedup_key": "03263c398e1bf466",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "拼好饭-用户增长运营（留存及促活方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4721327984",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 206
+  },
+  {
+    "dedup_key": "85ad9c57e2b792fb",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "美团小象超市线上店店长-上海/苏州/无锡/常州/南通",
+    "location": "上海市、南通市、常州市、无锡市、苏州市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4734934127",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 37
+  },
+  {
+    "dedup_key": "e85c5e3ffa974693",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "商家解决方案产品经理-外卖",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4736704553",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 221
+  },
+  {
+    "dedup_key": "fbcda983011c8b6b",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "到餐营销场-营销活动与流量拓展",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4754703552",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 137
+  },
+  {
+    "dedup_key": "bb89aa8e2dd8fba8",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "定价策略产品经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748339916",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 238
+  },
+  {
+    "dedup_key": "8caef7c459f90a0c",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "闪购-店铺运营专家-西南",
+    "location": "重庆市、成都市、贵阳市、昆明市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4753722592",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 124
+  },
+  {
+    "dedup_key": "723a227b4835d69c",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "外卖-商业分析师（收入管理与定价）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4720801610",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 212
+  },
+  {
+    "dedup_key": "5b5a43c784795e0b",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "闪购-歪马-库存管理专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4757066154",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 154
+  },
+  {
+    "dedup_key": "95e9ac0366bee10e",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "营销增长专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748443745",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 134
+  },
+  {
+    "dedup_key": "55c62584ac7ed114",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "无人车渠道销售负责人",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4850132159",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 119
+  },
+  {
+    "dedup_key": "61173ddf9f451550",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "资深项目经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4842439108",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 162
+  },
+  {
+    "dedup_key": "246acc56070eed2c",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "商家经营策略专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4848796132",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 139
+  },
+  {
+    "dedup_key": "41fc3e527cf0bb42",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "到餐-搜索产品经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4836315962",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 251
+  },
+  {
+    "dedup_key": "5a1e26d2b7434d3b",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "美团骑行-车辆运营主管（重庆）",
+    "location": "重庆市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4849656329",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 144
+  },
+  {
+    "dedup_key": "72353553ccfb1346",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "无人车-体验运营专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4850756710",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 204
+  },
+  {
+    "dedup_key": "96ab52dad8b50d95",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "到餐-销售策略运营",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4807909522",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 134
+  },
+  {
+    "dedup_key": "afcd98dcdefc2ff9",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "闪购-歪马-西宁运营督导（物流方向）",
+    "location": "西宁市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4828372553",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 147
+  },
+  {
+    "dedup_key": "77a82352581df81c",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "到餐用户产品经理（选店决策AI应用方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4826491574",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 198
+  },
+  {
+    "dedup_key": "834203fc689488e0",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "外卖-AI产品经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4796230050",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 204
+  },
+  {
+    "dedup_key": "eb98fe53e8d14470",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "商业分析师（用户方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4802717168",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 212
+  },
+  {
+    "dedup_key": "cac3facb676b2cf5",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "供应链产品经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4818575186",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 188
+  },
+  {
+    "dedup_key": "3aa009d1ee163496",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "闪购-店铺运营专家-华南",
+    "location": "广州市、深圳市、福州市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4765565069",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 134
+  },
+  {
+    "dedup_key": "d40a702c4f47350e",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "品牌营销岗（商家营销方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4773863153",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 119
+  },
+  {
+    "dedup_key": "88d5d7559364dd86",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "资深娱乐营销",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4776707305",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 162
+  },
+  {
+    "dedup_key": "ef486bb2db63f574",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "冲突治理专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4787850865",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 187
+  },
+  {
+    "dedup_key": "1cfb4a4e16ac7314",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "闪购歪马-线下店用户运营",
+    "location": "郑州市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4806741197",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 161
+  },
+  {
+    "dedup_key": "0a9209e7ea8be4fd",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "小象售后体验策略运营",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4758083947",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 54
+  },
+  {
+    "dedup_key": "44c995267fbf1edc",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "到餐业务专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4761633445",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 187
+  },
+  {
+    "dedup_key": "68eae81bcc276166",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "智能分析AI工程师",
+    "location": "北京市、上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4786797684",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 219
+  },
+  {
+    "dedup_key": "673e1a3044ab2fd9",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "闪购-歪马-武汉运营督导（物流方向）",
+    "location": "武汉市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4806751327",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 147
+  },
+  {
+    "dedup_key": "66b42901127f314e",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "歪马-业务培训专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4780444077",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 114
+  },
+  {
+    "dedup_key": "6e723ebb98a43bd3",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "城市pc采购负责人",
+    "location": "杭州市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4781318425",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 27
+  },
+  {
+    "dedup_key": "94570a3551f5a821",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "高频供给产品销售",
+    "location": "长沙市、广州市、成都市、北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4833241937",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 123
+  },
+  {
+    "dedup_key": "b7d5a9e1f55a9e19",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "AI评测产品经理",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4792416536",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 220
+  },
+  {
+    "dedup_key": "0a035db6491b66d1",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "收益经理",
+    "location": "成都市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4846284504",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 124
+  },
+  {
+    "dedup_key": "849ee684d3ee1dcb",
+    "source_id": "cn-bytedance",
+    "company_name": "字节跳动",
+    "title": "大模型推理研发专家 - 计算",
+    "location": "杭州, 北京, 西安",
+    "official_url": "https://jobs.bytedance.com/experienced/position/7595090762887350581/detail",
+    "first_seen": "2026-11-14T02:54:36.669445+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 188
+  },
+  {
+    "dedup_key": "a8db69cde1b97f78",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "酒店运营督导",
+    "location": "天津市、哈尔滨市、济南市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4842587410",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 157
+  },
+  {
+    "dedup_key": "e84cdf695307cb03",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "到餐-渠道运营管理（消费券方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748587661",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 125
+  },
+  {
+    "dedup_key": "ff747605a39fef95",
+    "source_id": "cn-bytedance",
+    "company_name": "字节跳动",
+    "title": "AML算法研究员-搜广推大模型",
+    "location": "北京",
+    "official_url": "https://jobs.bytedance.com/experienced/position/7357975761946511667/detail",
+    "first_seen": "2026-11-07T02:32:42.778622+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 188
+  },
+  {
+    "dedup_key": "3fe20a1939d0e418",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "战略大客户经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4720928498",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 159
+  },
+  {
+    "dedup_key": "f4468aba9c819fc8",
+    "source_id": "cn-tencent",
+    "company_name": "腾讯",
+    "title": "UE微恐轻动作项目-游戏研发PM",
+    "location": "深圳",
+    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2059492312714756096",
+    "first_seen": "2026-11-16T02:34:07.399830+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 94
+  },
+  {
+    "dedup_key": "485e02076c5b1b7e",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "业务分析运营支持（资源管理方向）",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4806540896",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 162
+  },
+  {
+    "dedup_key": "f234d9f40116e9b8",
+    "source_id": "cn-horizon",
+    "company_name": "地平线",
+    "title": "算法工程师 - 静态感知后处理",
+    "location": "北京市、成都市、上海市",
+    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6aacb444fea5e04bda6df804",
+    "first_seen": "2026-11-17T04:57:24.456190+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 137
+  },
+  {
+    "dedup_key": "74455a8a9ec60348",
+    "source_id": "cn-tencent",
+    "company_name": "腾讯",
+    "title": "大模型异构芯片推理适配调优工程师（深圳/北京/上海/杭州）",
+    "location": "北京",
+    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2021416952777568256",
+    "first_seen": "2026-11-17T04:57:24.456190+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 171
+  },
+  {
+    "dedup_key": "81ab961fb4aa734c",
+    "source_id": "cn-tencent",
+    "company_name": "腾讯",
+    "title": "微信基础-通讯产品策划",
+    "location": "广州",
+    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2089631209436131328",
+    "first_seen": "2026-11-17T04:57:24.456190+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 173
+  },
+  {
+    "dedup_key": "a0f82b156f334b4b",
+    "source_id": "cn-bytedance",
+    "company_name": "字节跳动",
+    "title": "数据科学家-抖音电商",
+    "location": "北京",
+    "official_url": "https://jobs.bytedance.com/experienced/position/7526836286259792135/detail",
+    "first_seen": "2026-06-23T11:25:02.724221+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 187
+  },
+  {
+    "dedup_key": "00d91f233f9fcbd0",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "业务分析运营支持",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4798253060",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 157
+  },
+  {
+    "dedup_key": "2ea59750701cfebf",
+    "source_id": "edu-csu",
+    "company_name": "清华大学玉泉医院（清华大学中西医结合医院）",
+    "title": "清华大学玉泉医院（清华大学中西医结合医院）",
+    "location": "中南大学·大学杏林校区·南大学新校区·（岳麓山校区",
+    "official_url": "https://career.csu.edu.cn/teachin/view/id/119508",
+    "first_seen": "2026-11-17T04:57:24.456190+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "721e24657d79af23",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "无人车运营HRBP",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4798497186",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "4739f82696380907",
+    "source_id": "edu-hnu",
+    "company_name": "2027年度宁夏招录选调生公告 主校区 · 学生就业指导中心329报告厅（海信报告厅）",
+    "title": "2027年度宁夏招录选调生公告 主校区 · 学生就业指导中心329报告厅（海信报告厅）",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=732774",
+    "first_seen": "2026-11-17T04:57:24.456190+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 14
+  },
+  {
+    "dedup_key": "88c383952fce6844",
+    "source_id": "wd-intel",
+    "company_name": "英特尔",
+    "title": "Customer Sales Analyst",
+    "location": "PRC, Shenzhen",
+    "official_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shenzhen/Customer-Sales-Analyst_JR0289389",
+    "first_seen": "2026-11-20T03:52:02.253339+00:00",
+    "last_seen": "2026-11-20T03:52:02.253339+00:00",
+    "archived_at": "2026-11-20T04:25:50.461533+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "6f64d156098036af",
     "source_id": "gov-mohrss",
     "company_name": "珠海智锐封装技术有限公司",
@@ -5134,18 +5854,6 @@
     "last_seen": "2026-11-18T04:01:16.294627+00:00",
     "archived_at": "2026-11-19T03:58:35.133538+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "42b833c908c92aa1",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "治理策略运营专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4784726341",
-    "first_seen": "2026-11-17T04:57:24.456190+00:00",
-    "last_seen": "2026-11-18T04:01:16.294627+00:00",
-    "archived_at": "2026-11-19T03:58:35.133538+00:00",
-    "match_score": 199
   },
   {
     "dedup_key": "c43759674159f0fb",
@@ -11268,18 +11976,6 @@
     "match_score": 142
   },
   {
-    "dedup_key": "fab463d5625d2aa4",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "推荐算法工程师-番茄",
-    "location": "上海",
-    "official_url": "https://jobs.bytedance.com/experienced/position/6959075132834105636/detail",
-    "first_seen": "2026-11-16T02:34:07.399830+00:00",
-    "last_seen": "2026-11-17T04:57:24.456190+00:00",
-    "archived_at": "2026-11-18T04:01:16.294627+00:00",
-    "match_score": 196
-  },
-  {
     "dedup_key": "20094b60a3b86271",
     "source_id": "cn-bytedance",
     "company_name": "字节跳动",
@@ -11506,18 +12202,6 @@
     "last_seen": "2026-11-17T04:57:24.456190+00:00",
     "archived_at": "2026-11-18T04:01:16.294627+00:00",
     "match_score": 214
-  },
-  {
-    "dedup_key": "1ce2a3e1c70d73f6",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "美团外卖-供应链采购专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4310282769",
-    "first_seen": "2026-11-17T04:57:24.456190+00:00",
-    "last_seen": "2026-11-17T04:57:24.456190+00:00",
-    "archived_at": "2026-11-18T04:01:16.294627+00:00",
-    "match_score": 0
   },
   {
     "dedup_key": "274185631e383c1c",
@@ -11782,18 +12466,6 @@
     "last_seen": "2026-11-17T04:57:24.456190+00:00",
     "archived_at": "2026-11-18T04:01:16.294627+00:00",
     "match_score": 90
-  },
-  {
-    "dedup_key": "3b81fa646ac9e83a",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "KA大客户品牌经理（西式快餐）",
-    "location": "上海市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4164768170",
-    "first_seen": "2026-11-17T04:57:24.456190+00:00",
-    "last_seen": "2026-11-17T04:57:24.456190+00:00",
-    "archived_at": "2026-11-18T04:01:16.294627+00:00",
-    "match_score": 149
   },
   {
     "dedup_key": "556cf9176a311d81",
@@ -12840,18 +13512,6 @@
     "match_score": 165
   },
   {
-    "dedup_key": "8f63f555a0d90c89",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "大模型推理后台开发工程师（深圳/北京/上海/杭州）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1955829491829985280",
-    "first_seen": "2026-11-17T04:57:24.456190+00:00",
-    "last_seen": "2026-11-17T04:57:24.456190+00:00",
-    "archived_at": "2026-11-18T04:01:16.294627+00:00",
-    "match_score": 164
-  },
-  {
     "dedup_key": "792e288e15d8b65f",
     "source_id": "cn-bytedance",
     "company_name": "字节跳动",
@@ -12894,18 +13554,6 @@
     "title": "资深运营策划（梦幻手游-轻享服方向）",
     "location": "广州市",
     "official_url": "https://hr.163.com/job-detail.html?positionId=79969",
-    "first_seen": "2026-11-17T04:57:24.456190+00:00",
-    "last_seen": "2026-11-17T04:57:24.456190+00:00",
-    "archived_at": "2026-11-18T04:01:16.294627+00:00",
-    "match_score": 159
-  },
-  {
-    "dedup_key": "5471a2013c2e5f8b",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "美团外卖-外卖商家合规运营专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4776560879",
     "first_seen": "2026-11-17T04:57:24.456190+00:00",
     "last_seen": "2026-11-17T04:57:24.456190+00:00",
     "archived_at": "2026-11-18T04:01:16.294627+00:00",
@@ -17016,18 +17664,6 @@
     "match_score": 212
   },
   {
-    "dedup_key": "10ab9eeffd964e8e",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "运力增长策略运营（裂变方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4773835637",
-    "first_seen": "2026-11-12T03:37:08.218565+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 187
-  },
-  {
     "dedup_key": "a6f3d9ffd794f99d",
     "source_id": "cn-bytedance",
     "company_name": "字节跳动",
@@ -17136,18 +17772,6 @@
     "match_score": 38
   },
   {
-    "dedup_key": "938b3b7a7eed3510",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "效果广告-易生活行业策略产品",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748689769",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 191
-  },
-  {
     "dedup_key": "85ab7318e5e1bd1c",
     "source_id": "cn-netease",
     "company_name": "网易",
@@ -17182,90 +17806,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 114
-  },
-  {
-    "dedup_key": "6adc0f9203a74bfe",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "外卖经营分析师（校园业务）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4728427558",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 212
-  },
-  {
-    "dedup_key": "03263c398e1bf466",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "拼好饭-用户增长运营（留存及促活方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4721327984",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 206
-  },
-  {
-    "dedup_key": "85ad9c57e2b792fb",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "美团小象超市线上店店长-上海/苏州/无锡/常州/南通",
-    "location": "上海市、南通市、常州市、无锡市、苏州市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4734934127",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 37
-  },
-  {
-    "dedup_key": "e85c5e3ffa974693",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "商家解决方案产品经理-外卖",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4736704553",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 221
-  },
-  {
-    "dedup_key": "fbcda983011c8b6b",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "到餐营销场-营销活动与流量拓展",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4754703552",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 137
-  },
-  {
-    "dedup_key": "bb89aa8e2dd8fba8",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "定价策略产品经理",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748339916",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 238
-  },
-  {
-    "dedup_key": "8caef7c459f90a0c",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "闪购-店铺运营专家-西南",
-    "location": "重庆市、成都市、贵阳市、昆明市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4753722592",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 124
   },
   {
     "dedup_key": "f09f6e12cf170c54",
@@ -17338,18 +17878,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 76
-  },
-  {
-    "dedup_key": "723a227b4835d69c",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "外卖-商业分析师（收入管理与定价）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4720801610",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 212
   },
   {
     "dedup_key": "608849f2a00ca249",
@@ -17460,18 +17988,6 @@
     "match_score": 168
   },
   {
-    "dedup_key": "5b5a43c784795e0b",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "闪购-歪马-库存管理专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4757066154",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 154
-  },
-  {
     "dedup_key": "efca130ca86d770c",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -17482,18 +17998,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 152
-  },
-  {
-    "dedup_key": "95e9ac0366bee10e",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "营销增长专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748443745",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 134
   },
   {
     "dedup_key": "b604881bea11ca79",
@@ -17784,18 +18288,6 @@
     "match_score": 114
   },
   {
-    "dedup_key": "55c62584ac7ed114",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "无人车渠道销售负责人",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4850132159",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 119
-  },
-  {
     "dedup_key": "930d0affbfbe1e88",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -17818,18 +18310,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 134
-  },
-  {
-    "dedup_key": "61173ddf9f451550",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "资深项目经理",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4842439108",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 162
   },
   {
     "dedup_key": "4861e01d0d89997e",
@@ -17856,30 +18336,6 @@
     "match_score": 144
   },
   {
-    "dedup_key": "246acc56070eed2c",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "商家经营策略专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4848796132",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 139
-  },
-  {
-    "dedup_key": "41fc3e527cf0bb42",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "到餐-搜索产品经理",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4836315962",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 251
-  },
-  {
     "dedup_key": "621bef7da181e399",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -17902,18 +18358,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 167
-  },
-  {
-    "dedup_key": "5a1e26d2b7434d3b",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "美团骑行-车辆运营主管（重庆）",
-    "location": "重庆市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4849656329",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 144
   },
   {
     "dedup_key": "8687dd8b7e3a4044",
@@ -17950,18 +18394,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 182
-  },
-  {
-    "dedup_key": "72353553ccfb1346",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "无人车-体验运营专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4850756710",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 204
   },
   {
     "dedup_key": "02c65b33e3028491",
@@ -18070,18 +18502,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "96ab52dad8b50d95",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "到餐-销售策略运营",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4807909522",
-    "first_seen": "2026-11-12T03:37:08.218565+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 134
   },
   {
     "dedup_key": "3912c255e6591b0a",
@@ -18276,18 +18696,6 @@
     "match_score": 13
   },
   {
-    "dedup_key": "afcd98dcdefc2ff9",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "闪购-歪马-西宁运营督导（物流方向）",
-    "location": "西宁市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4828372553",
-    "first_seen": "2026-11-13T03:09:07.059269+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 147
-  },
-  {
     "dedup_key": "5e278a881853f20f",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -18336,18 +18744,6 @@
     "match_score": 120
   },
   {
-    "dedup_key": "77a82352581df81c",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "到餐用户产品经理（选店决策AI应用方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4826491574",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 198
-  },
-  {
     "dedup_key": "3e11dcef3f194766",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -18358,42 +18754,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 191
-  },
-  {
-    "dedup_key": "834203fc689488e0",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "外卖-AI产品经理",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4796230050",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 204
-  },
-  {
-    "dedup_key": "eb98fe53e8d14470",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "商业分析师（用户方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4802717168",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 212
-  },
-  {
-    "dedup_key": "cac3facb676b2cf5",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "供应链产品经理",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4818575186",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 188
   },
   {
     "dedup_key": "1d8d215316be9e17",
@@ -18427,54 +18787,6 @@
     "location": "北京市",
     "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4885751257",
     "first_seen": "2026-11-01T01:52:26.686143+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 187
-  },
-  {
-    "dedup_key": "3aa009d1ee163496",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "闪购-店铺运营专家-华南",
-    "location": "广州市、深圳市、福州市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4765565069",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 134
-  },
-  {
-    "dedup_key": "d40a702c4f47350e",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "品牌营销岗（商家营销方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4773863153",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 119
-  },
-  {
-    "dedup_key": "88d5d7559364dd86",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "资深娱乐营销",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4776707305",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 162
-  },
-  {
-    "dedup_key": "ef486bb2db63f574",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "冲突治理专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4787850865",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 187
@@ -18528,18 +18840,6 @@
     "match_score": 209
   },
   {
-    "dedup_key": "1cfb4a4e16ac7314",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "闪购歪马-线下店用户运营",
-    "location": "郑州市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4806741197",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 161
-  },
-  {
     "dedup_key": "9955c1dc7d10c4f0",
     "source_id": "cn-tencent",
     "company_name": "腾讯",
@@ -18550,18 +18850,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 114
-  },
-  {
-    "dedup_key": "0a9209e7ea8be4fd",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "小象售后体验策略运营",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4758083947",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 54
   },
   {
     "dedup_key": "3b77e8cc64687eae",
@@ -18816,18 +19104,6 @@
     "match_score": 107
   },
   {
-    "dedup_key": "44c995267fbf1edc",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "到餐业务专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4761633445",
-    "first_seen": "2026-11-06T03:12:07.527604+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 187
-  },
-  {
     "dedup_key": "8412e708dfe0c2ed",
     "source_id": "wd-kla",
     "company_name": "科磊KLA",
@@ -19054,18 +19330,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 223
-  },
-  {
-    "dedup_key": "68eae81bcc276166",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "智能分析AI工程师",
-    "location": "北京市、上海市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4786797684",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 219
   },
   {
     "dedup_key": "9f9b3ce167cab109",
@@ -19824,18 +20088,6 @@
     "match_score": 147
   },
   {
-    "dedup_key": "673e1a3044ab2fd9",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "闪购-歪马-武汉运营督导（物流方向）",
-    "location": "武汉市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4806751327",
-    "first_seen": "2026-11-03T03:50:12.040613+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 147
-  },
-  {
     "dedup_key": "ee50789b20153545",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -20359,18 +20611,6 @@
     "location": "上海市",
     "official_url": "https://hr.163.com/job-detail.html?positionId=74381",
     "first_seen": "2026-11-14T02:54:36.669445+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 114
-  },
-  {
-    "dedup_key": "66b42901127f314e",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "歪马-业务培训专家",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4780444077",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 114
@@ -21754,18 +21994,6 @@
     "last_seen": "2026-11-16T02:34:07.399830+00:00",
     "archived_at": "2026-11-17T04:57:24.456190+00:00",
     "match_score": 30
-  },
-  {
-    "dedup_key": "6e723ebb98a43bd3",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "城市pc采购负责人",
-    "location": "杭州市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4781318425",
-    "first_seen": "2026-11-05T03:11:47.945530+00:00",
-    "last_seen": "2026-11-16T02:34:07.399830+00:00",
-    "archived_at": "2026-11-17T04:57:24.456190+00:00",
-    "match_score": 27
   },
   {
     "dedup_key": "8646f3e417f4571e",
@@ -23868,18 +24096,6 @@
     "match_score": 166
   },
   {
-    "dedup_key": "94570a3551f5a821",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "高频供给产品销售",
-    "location": "长沙市、广州市、成都市、北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4833241937",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-15T02:24:25.172193+00:00",
-    "archived_at": "2026-11-16T02:34:07.399830+00:00",
-    "match_score": 123
-  },
-  {
     "dedup_key": "dec86f0401f35953",
     "source_id": "gov-mohrss",
     "company_name": "珠海京东方晶芯科技有限公司",
@@ -23926,18 +24142,6 @@
     "last_seen": "2026-11-15T02:24:25.172193+00:00",
     "archived_at": "2026-11-16T02:34:07.399830+00:00",
     "match_score": 79
-  },
-  {
-    "dedup_key": "b7d5a9e1f55a9e19",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "AI评测产品经理",
-    "location": "上海市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4792416536",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-15T02:24:25.172193+00:00",
-    "archived_at": "2026-11-16T02:34:07.399830+00:00",
-    "match_score": 220
   },
   {
     "dedup_key": "905fbfcc8c8bcf3b",
@@ -28750,18 +28954,6 @@
     "last_seen": "2026-11-13T03:09:07.059269+00:00",
     "archived_at": "2026-11-14T02:54:36.669445+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "0a035db6491b66d1",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "收益经理",
-    "location": "成都市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4846284504",
-    "first_seen": "2026-11-09T02:23:05.717424+00:00",
-    "last_seen": "2026-11-13T03:09:07.059269+00:00",
-    "archived_at": "2026-11-14T02:54:36.669445+00:00",
-    "match_score": 124
   },
   {
     "dedup_key": "601ed50d4f28be3a",
@@ -36238,18 +36430,6 @@
     "last_seen": "2026-11-12T03:37:08.218565+00:00",
     "archived_at": "2026-11-13T03:09:07.059269+00:00",
     "match_score": 0
-  },
-  {
-    "dedup_key": "849ee684d3ee1dcb",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "大模型推理研发专家 - 计算",
-    "location": "杭州, 北京, 西安",
-    "official_url": "https://jobs.bytedance.com/experienced/position/7595090762887350581/detail",
-    "first_seen": "2026-11-11T02:32:15.560454+00:00",
-    "last_seen": "2026-11-11T02:32:15.560454+00:00",
-    "archived_at": "2026-11-12T03:37:08.218565+00:00",
-    "match_score": 188
   },
   {
     "dedup_key": "d8162f0607f9e20f",
@@ -53508,18 +53688,6 @@
     "match_score": 210
   },
   {
-    "dedup_key": "a8db69cde1b97f78",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "酒店运营督导",
-    "location": "天津市、南京市、杭州市、南昌市、济南市、郑州市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=2891399964",
-    "first_seen": "2026-11-08T02:03:21.885281+00:00",
-    "last_seen": "2026-11-08T02:03:21.885281+00:00",
-    "archived_at": "2026-11-09T02:23:05.717424+00:00",
-    "match_score": 157
-  },
-  {
     "dedup_key": "3a2b7eeaae91636d",
     "source_id": "cn-netease",
     "company_name": "网易",
@@ -53974,18 +54142,6 @@
     "last_seen": "2026-11-08T02:03:21.885281+00:00",
     "archived_at": "2026-11-09T02:23:05.717424+00:00",
     "match_score": 212
-  },
-  {
-    "dedup_key": "e84cdf695307cb03",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "到餐-渠道运营管理（消费券方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4748587661",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-08T02:03:21.885281+00:00",
-    "archived_at": "2026-11-09T02:23:05.717424+00:00",
-    "match_score": 125
   },
   {
     "dedup_key": "b2713af010e5fb92",
@@ -63214,18 +63370,6 @@
     "last_seen": "2026-11-05T03:11:47.945530+00:00",
     "archived_at": "2026-11-06T03:12:07.527604+00:00",
     "match_score": 92
-  },
-  {
-    "dedup_key": "ff747605a39fef95",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "AML算法研究员-搜广推大模型",
-    "location": "北京",
-    "official_url": "https://jobs.bytedance.com/experienced/position/7357975761946511667/detail",
-    "first_seen": "2026-10-24T01:22:26.740593+00:00",
-    "last_seen": "2026-11-05T03:11:47.945530+00:00",
-    "archived_at": "2026-11-06T03:12:07.527604+00:00",
-    "match_score": 188
   },
   {
     "dedup_key": "b267a00500aa883f",
@@ -72864,18 +73008,6 @@
     "match_score": 134
   },
   {
-    "dedup_key": "3fe20a1939d0e418",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "战略大客户经理",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4720928498",
-    "first_seen": "2026-11-02T02:07:31.322238+00:00",
-    "last_seen": "2026-11-03T03:50:12.040613+00:00",
-    "archived_at": "2026-11-04T02:54:59.070387+00:00",
-    "match_score": 159
-  },
-  {
     "dedup_key": "c9da7f13c8c4e852",
     "source_id": "cn-meituan-campus",
     "company_name": "美团",
@@ -79494,18 +79626,6 @@
     "title": "知名IP海外项目-游戏客户端开发-Gameplay方向",
     "location": "深圳",
     "official_url": "http://careers.tencent.com/jobdesc.html?postId=2092449392501108736",
-    "first_seen": "2026-10-30T02:24:24.654413+00:00",
-    "last_seen": "2026-11-02T02:07:31.322238+00:00",
-    "archived_at": "2026-11-03T03:50:12.040613+00:00",
-    "match_score": 94
-  },
-  {
-    "dedup_key": "f4468aba9c819fc8",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "UE微恐轻动作项目-游戏研发PM",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2059492312714756096",
     "first_seen": "2026-10-30T02:24:24.654413+00:00",
     "last_seen": "2026-11-02T02:07:31.322238+00:00",
     "archived_at": "2026-11-03T03:50:12.040613+00:00",
@@ -92076,18 +92196,6 @@
     "match_score": 107
   },
   {
-    "dedup_key": "485e02076c5b1b7e",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "业务分析运营支持（资源管理方向）",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4806540896",
-    "first_seen": "2026-10-29T02:07:01.414736+00:00",
-    "last_seen": "2026-10-30T02:24:24.654413+00:00",
-    "archived_at": "2026-10-31T02:01:41.593681+00:00",
-    "match_score": 162
-  },
-  {
     "dedup_key": "b45797e2a7ac81df",
     "source_id": "cn-tencent",
     "company_name": "腾讯",
@@ -101371,18 +101479,6 @@
     "location": "深圳",
     "official_url": "http://careers.tencent.com/jobdesc.html?postId=2091551219238744064",
     "first_seen": "2026-10-27T01:49:26.715127+00:00",
-    "last_seen": "2026-10-28T02:01:04.953815+00:00",
-    "archived_at": "2026-10-29T02:07:01.414736+00:00",
-    "match_score": 137
-  },
-  {
-    "dedup_key": "f234d9f40116e9b8",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "算法工程师 - 静态感知后处理",
-    "location": "北京市、成都市、上海市",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6aacb444fea5e04bda6df804",
-    "first_seen": "2026-09-19T00:59:05.354318+00:00",
     "last_seen": "2026-10-28T02:01:04.953815+00:00",
     "archived_at": "2026-10-29T02:07:01.414736+00:00",
     "match_score": 137
@@ -111096,18 +111192,6 @@
     "match_score": 95
   },
   {
-    "dedup_key": "74455a8a9ec60348",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "大模型异构芯片推理适配调优工程师（深圳/北京/上海/杭州）",
-    "location": "北京",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2021416952777568256",
-    "first_seen": "2026-10-23T01:13:46.540127+00:00",
-    "last_seen": "2026-10-26T00:59:07.240398+00:00",
-    "archived_at": "2026-10-27T01:49:26.715127+00:00",
-    "match_score": 171
-  },
-  {
     "dedup_key": "d7ed4e522db7b6f4",
     "source_id": "cn-tencent",
     "company_name": "腾讯",
@@ -111550,18 +111634,6 @@
     "last_seen": "2026-10-26T00:59:07.240398+00:00",
     "archived_at": "2026-10-27T01:49:26.715127+00:00",
     "match_score": 179
-  },
-  {
-    "dedup_key": "81ab961fb4aa734c",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "微信基础-通讯产品策划",
-    "location": "广州",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2089631209436131328",
-    "first_seen": "2026-10-23T01:13:46.540127+00:00",
-    "last_seen": "2026-10-26T00:59:07.240398+00:00",
-    "archived_at": "2026-10-27T01:49:26.715127+00:00",
-    "match_score": 173
   },
   {
     "dedup_key": "54489e7df2ccfaa2",
@@ -119923,78 +119995,6 @@
     "location": "杭州",
     "official_url": "https://jobs.bytedance.com/experienced/position/7697154468552395013/detail",
     "first_seen": "2026-10-23T01:13:46.540127+00:00",
-    "last_seen": "2026-10-24T01:22:26.740593+00:00",
-    "archived_at": "2026-10-25T00:51:21.863383+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "0872181d50c79a04",
-    "source_id": "edu-xidian",
-    "company_name": "广西公安厅 职位: 0个 进行中 地点：长安校区C楼415 时间",
-    "title": "广西公安厅 职位: 0个 进行中 地点：长安校区C楼415 时间：2026-10-24 10:00-12:00（周六）",
-    "location": "job.xidian.edu.cn",
-    "official_url": "https://job.xidian.edu.cn/teachin/view/id/127463",
-    "first_seen": "2026-10-24T01:22:26.740593+00:00",
-    "last_seen": "2026-10-24T01:22:26.740593+00:00",
-    "archived_at": "2026-10-25T00:51:21.863383+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "6391f2ab72981584",
-    "source_id": "edu-xidian",
-    "company_name": "湖北绿色家园材料技术股份有限公司",
-    "title": "湖北绿色家园材料技术股份有限公司 职位: 54个 进行中 地点：长安校区C楼433 时间：2026-10-24 19:00-21:00（周六）",
-    "location": "job.xidian.edu.cn",
-    "official_url": "https://job.xidian.edu.cn/teachin/view/id/127458",
-    "first_seen": "2026-10-23T01:13:46.540127+00:00",
-    "last_seen": "2026-10-24T01:22:26.740593+00:00",
-    "archived_at": "2026-10-25T00:51:21.863383+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "f6010e041028c320",
-    "source_id": "gov-mohrss",
-    "company_name": "广西至厚人力资源有限公司河池分公司",
-    "title": "京东家政服务（广州）有限公司-日常保洁师",
-    "location": "河池市惠州市",
-    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/d25da7fc-186d-4882-8683-7ad5422ba271",
-    "first_seen": "2026-10-24T01:22:26.740593+00:00",
-    "last_seen": "2026-10-24T01:22:26.740593+00:00",
-    "archived_at": "2026-10-25T00:51:21.863383+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "fdd1d00d39f3e6ef",
-    "source_id": "gov-mohrss",
-    "company_name": "河源集品技术有限公司",
-    "title": "注塑工",
-    "location": "云南省东源县",
-    "official_url": "https://ynsjyj.cn/#/indexZp/positionInfo?acb210=346963551946618939&aab001=346963539780027447",
-    "first_seen": "2026-10-22T01:14:38.223182+00:00",
-    "last_seen": "2026-10-24T01:22:26.740593+00:00",
-    "archived_at": "2026-10-25T00:51:21.863383+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "6dee75a8258d0ccd",
-    "source_id": "gov-mohrss",
-    "company_name": "浙江荣源环保科技有限公司",
-    "title": "机修学徒",
-    "location": "浙江省天台县",
-    "official_url": "https://www.zjhr.com/010/client/index7.jsp?column1=8a129366a13afee301a1424aff671c32&column2=1&t=1574133601459",
-    "first_seen": "2026-10-24T01:22:26.740593+00:00",
-    "last_seen": "2026-10-24T01:22:26.740593+00:00",
-    "archived_at": "2026-10-25T00:51:21.863383+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "b235728e6358f6ab",
-    "source_id": "gov-mohrss",
-    "company_name": "浙江东大滤料科技股份有限公司",
-    "title": "网络运营",
-    "location": "浙江省天台县",
-    "official_url": "https://www.zjhr.com/010/client/index7.jsp?column1=8a129366a13afee301a1426beed12838&column2=1&t=1574133601459",
-    "first_seen": "2026-10-24T01:22:26.740593+00:00",
     "last_seen": "2026-10-24T01:22:26.740593+00:00",
     "archived_at": "2026-10-25T00:51:21.863383+00:00",
     "match_score": 0
