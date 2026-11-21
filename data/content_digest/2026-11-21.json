@@ -39,10 +39,55 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "id": "2056017578089955328"
+  }
+ },
+ {
+  "job_id": "cn-jd:0e3eed9f58fad9e8",
+  "dedup_key": "0e3eed9f58fad9e8",
+  "source_id": "cn-jd",
+  "company_name": "京东",
+  "title": "数据分析岗",
+  "location": "北京市",
+  "org_type": "internet",
+  "industry": "互联网/软件",
+  "job_type": "unknown",
+  "publish_time": "2026-11-21",
+  "deadline": "",
+  "official_url": "https://zhaopin.jd.com/web/job/job_detail/183699",
+  "backup_url": "",
+  "salary": "",
+  "employment_type": "",
+  "identifier": "",
+  "jd_text": "1. 设计生鲜业务数据分析框架，明确关键指标以支持业务决策；\n2. 构建与优化数据分析模型及指标体系，监控业务核心数据，识别风险与机会，并完成相应数据资产的沉淀和建设；\n3. 协同业务团队沟通需求，输出分析报告与可视化看板，推动数据结论落地应用；\n4. 探索并应用前沿分析方法与工具，提升团队数据应用能力与业务价值。 1. 具备生鲜零售行业数据分析与业务策略支持经验，熟悉从数据发现问题至推动业务优化的完整流程，并完成相应数据资产的沉淀和建设；\n2. 能够运用SQL、Python等工具进行数据清洗、建模与可视化分析，支持业务决策优化；\n3. 能够基于供应链、用户行为与商品运营等场景构建分析框架，输出可落地的数据策略方案；\n4. 能够从复杂业务数据中识别关键问题与增长机会，提炼对运营有指导意义的分析结论；\n5. 能够主动学习行业前沿分析方法与工具并应用于业务场景，持续提升分析效能；\n6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+  "tags": [
+   "行业:互联网/软件",
+   "数据",
+   "指标",
+   "SQL",
+   "Python",
+   "策略产品",
+   "数据科学",
+   "industry_match",
+   "大厂",
+   "city_match",
+   "缺截止",
+   "仅社招"
+  ],
+  "match_score": 154,
+  "source_confidence": 100,
+  "risk_flags": [],
+  "status": "new",
+  "seen_count": 1,
+  "first_seen": "2026-11-21T10:09:11.099421+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
+  "gone": false,
+  "extra": {
+   "id": 183699,
+   "jobType": "研发类"
   }
  },
  {
@@ -82,7 +127,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -128,7 +173,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -173,13 +218,59 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
    "degree": "本科",
    "postType": "游戏策划",
    "needs_ai": false
+  }
+ },
+ {
+  "job_id": "cn-jd:9714318f8c74573e",
+  "dedup_key": "9714318f8c74573e",
+  "source_id": "cn-jd",
+  "company_name": "京东",
+  "title": "买手岗",
+  "location": "北京市",
+  "org_type": "internet",
+  "industry": "互联网/软件",
+  "job_type": "unknown",
+  "publish_time": "2026-11-21",
+  "deadline": "",
+  "official_url": "https://zhaopin.jd.com/web/job/job_detail/183697",
+  "backup_url": "https://zhaopin.jd.com/web/job/job_detail/183694",
+  "salary": "",
+  "employment_type": "",
+  "identifier": "",
+  "jd_text": "1. 主导肉禽蛋及特色农产品产地直采体系搭建，开发差异化商品；\n2. 统筹供应商全生命周期管理，保障供应渠道合规稳定；\n3. 建立品质溯源体系与全流程标准，确保产品质量安全；\n4. 协同市场与运营团队制定推广策略，推动品牌化建设与市场渗透；\n5. 牵头制定品类商品标准，推动跨部门协同与行业标准参与。 1. 具备农产品产地直采体系搭建经验，能够主导产区资源挖掘与差异化商品开发，建立从基地考察、资质审核到合作协议签订的完整直采链路；\n2. 拥有供应链全局统筹能力，能够统筹供应商全生命周期管理，联合品控团队制定覆盖基地直采全流程的品质溯源标准，推动跨部门协同解决实际问题；\n3. 具备政企对接与产区标准化建设经验，能协调地方政府、行业协会等资源推动项目落地，并主导产地直采商品的品牌化打造与市场渗透；\n4. 能够从产地供给波动、品质异常或政企协同受阻等表象中定位底层原因，结合市场消费趋势与扶持政策选择最优的产区开发与商品策略；\n5. 能够结合消费趋势挖掘特色农产品的商业价值，推动产地直采商品的品牌化打造与市场渗透，敢于在业务模式或商品形态上进行创新；\n6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+  "tags": [
+   "行业:互联网/软件",
+   "产品",
+   "策略",
+   "商业",
+   "行业",
+   "策略产品",
+   "industry_match",
+   "大厂",
+   "city_match",
+   "缺截止",
+   "仅社招"
+  ],
+  "match_score": 134,
+  "source_confidence": 100,
+  "risk_flags": [
+   "repeat_posting"
+  ],
+  "status": "new",
+  "seen_count": 3,
+  "first_seen": "2026-11-21T10:09:11.099421+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
+  "gone": false,
+  "extra": {
+   "id": 183697,
+   "jobType": "采销类"
   }
  },
  {
@@ -218,7 +309,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -263,7 +354,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -308,7 +399,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -353,7 +444,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -397,7 +488,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -441,7 +532,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -485,7 +576,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -529,7 +620,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -573,7 +664,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -617,7 +708,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -660,7 +751,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -703,7 +794,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -746,7 +837,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -789,7 +880,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "id": "2033133620071395328"
@@ -828,7 +919,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -870,7 +961,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -912,7 +1003,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -953,7 +1044,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -994,7 +1085,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1035,7 +1126,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1075,7 +1166,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1115,7 +1206,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1155,7 +1246,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1202,7 +1293,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1246,7 +1337,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "id": "2091058579741257728"
@@ -1288,7 +1379,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1325,7 +1416,7 @@
   "status": "new",
   "seen_count": 2,
   "first_seen": "2026-11-18T04:01:16.294627+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "xjc",
@@ -1368,7 +1459,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
@@ -1410,7 +1501,7 @@
   "status": "new",
   "seen_count": 1,
   "first_seen": "2026-11-21T03:50:09.029031+00:00",
-  "last_seen": "2026-11-21T03:50:09.029031+00:00",
+  "last_seen": "2026-11-21T10:09:11.099421+00:00",
   "gone": false,
   "extra": {
    "platform": "netease",
